@@ -1,6 +1,6 @@
 # Name Inverter
 This is a Kata to practice Test Driven Development with the "Name inverter" example.
- What StringCalculator aim to solve/fulfill are the following requirements:
+ What NameInverter aim to solve/fulfill are the following requirements:
    1. Given an null, return NullPointerException.
    2. Given an empty string, return empty string.
    3. Given an string with only white spaces, return empty string.
